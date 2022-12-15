@@ -89,3 +89,10 @@ hr {
 .blog-posts .post .featured .featured-image img {
   height: 380px;
 }
+.navbar-item.is-active{
+      background: transparent!important;
+      background-color:none!important;
+}
+.subtitle2 >a{
+  font-size: 1.9rem;
+}
